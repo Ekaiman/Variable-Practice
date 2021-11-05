@@ -6,3 +6,5 @@ var number = 3
 
 var hungry = true;
 var sleepy = true;
+
+var colors = ['black', 'white', 'blue']
